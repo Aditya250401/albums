@@ -5,62 +5,104 @@
       "id": 1
     },
     {
-      "name": "Pauline Hickle",
-      "id": 2
-    },
-    {
-      "name": "Enrico Dach",
-      "id": 3
-    },
-    {
-      "name": "Manuela Monahan",
-      "id": 4
-    },
-    {
-      "name": "Deonte Mitchell",
-      "id": 5
-    },
-    {
-      "name": "Bryana Huel",
-      "id": 6
-    },
-    {
-      "name": "Schuyler Fisher",
-      "id": 7
-    },
-    {
-      "name": "Urban Ebert",
-      "id": 8
-    },
-    {
-      "name": "Malinda Mayer",
-      "id": 9
-    },
-    {
-      "name": "Rosemary Gibson",
-      "id": 10
-    },
-    {
-      "name": "Boris Rowe",
-      "id": 11
-    },
-    {
-      "name": "Helene Smith",
-      "id": 12
-    },
-    {
-      "name": "Marcelina Lubowitz",
-      "id": 13
-    },
-    {
       "name": "Della Kunde",
       "id": 14
     },
     {
       "name": "Julius Shanahan",
       "id": 15
+    },
+    {
+      "name": "Marilou Franecki",
+      "id": 16
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "name": "Album 1",
+      "user_id": 1
+    },
+    {
+      "user_id": 14,
+      "title": "Possimus rem impedit eum quaerat.",
+      "id": 2
+    },
+    {
+      "user_id": 14,
+      "title": "Nam ipsam cumque odio harum voluptatem.",
+      "id": 3
+    },
+    {
+      "user_id": 1,
+      "title": "Odit beatae velit eveniet blanditiis laudantium.",
+      "id": 4
+    },
+    {
+      "user_id": 1,
+      "title": "Veritatis quo temporibus inventore iure itaque.",
+      "id": 5
+    },
+    {
+      "user_id": 1,
+      "title": "Quisquam rem doloremque quasi.",
+      "id": 6
+    },
+    {
+      "user_id": 1,
+      "title": "Veniam tempore itaque adipisci aut nihil porro reiciendis inventore dolore.",
+      "id": 7
+    },
+    {
+      "user_id": 1,
+      "title": "Quis dignissimos corporis inventore voluptatem soluta quia.",
+      "id": 8
+    },
+    {
+      "user_id": 1,
+      "title": "Asperiores nobis accusantium quasi.",
+      "id": 9
+    },
+    {
+      "user_id": 1,
+      "title": "Eveniet tempore incidunt modi laboriosam qui libero repellendus dolores veritatis.",
+      "id": 10
+    },
+    {
+      "user_id": 1,
+      "title": "Reprehenderit suscipit eligendi optio.",
+      "id": 11
+    },
+    {
+      "user_id": 1,
+      "title": "Inventore commodi illum dolorem provident eos voluptas perferendis dolorum assumenda.",
+      "id": 12
+    },
+    {
+      "user_id": 1,
+      "title": "Consectetur non dolorum qui aperiam.",
+      "id": 13
+    },
+    {
+      "user_id": 1,
+      "title": "Assumenda voluptatum beatae excepturi corporis.",
+      "id": 14
+    },
+    {
+      "user_id": 14,
+      "title": "Sequi voluptate ea porro perferendis id debitis possimus.",
+      "id": 15
+    },
+    {
+      "user_id": 14,
+      "title": "Vero alias consectetur aut repellat laborum libero vero consectetur ad.",
+      "id": 16
+    },
+    {
+      "user_id": 14,
+      "title": "Inventore ab quasi nam excepturi corporis sit.",
+      "id": 17
+    }
+  ],
   "photos": []
 }
